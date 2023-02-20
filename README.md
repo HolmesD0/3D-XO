@@ -1,0 +1,3 @@
+Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+I built the game using MERN stack and Socket.io, the latter of which helped me create an online runtime game bundled with chat and live streaming, not forgetting Three.js to decorate the interface (Front-End) and Express-Session to segment connections by session (Back-End).
+By the help of mongoose for storing data (MongoDB Database).

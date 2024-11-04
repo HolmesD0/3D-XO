@@ -75,7 +75,7 @@ function gameXO(table) {
   else return "XO";
 }
 
-const url = "mongodb+srv://test:test@cluster0.av3llsy.mongodb.net/?retryWrites=true&w=majority";
+const url = "";
 mongoose
   .connect(url, {
     useUnifiedTopology: true,
